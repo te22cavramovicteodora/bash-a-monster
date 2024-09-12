@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\monster.csproj": {}
+    "c:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\monster.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\monster.csproj": {
+    "c:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\monster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\monster.csproj",
+        "projectUniqueName": "c:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\monster.csproj",
         "projectName": "monster",
-        "projectPath": "C:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\monster.csproj",
+        "projectPath": "c:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\monster.csproj",
         "packagesPath": "C:\\Users\\teodora.avramovic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\obj\\",
+        "outputPath": "c:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

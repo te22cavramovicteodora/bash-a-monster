@@ -1,0 +1,15 @@
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\bin\Debug\net6.0\monster.exe
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\bin\Debug\net6.0\monster.deps.json
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\bin\Debug\net6.0\monster.runtimeconfig.json
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\bin\Debug\net6.0\monster.dll
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\bin\Debug\net6.0\monster.pdb
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\obj\Debug\net6.0\monster.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\obj\Debug\net6.0\monster.AssemblyInfoInputs.cache
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\obj\Debug\net6.0\monster.AssemblyInfo.cs
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\obj\Debug\net6.0\monster.csproj.CoreCompileInputs.cache
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\obj\Debug\net6.0\monster.sourcelink.json
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\obj\Debug\net6.0\monster.dll
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\obj\Debug\net6.0\refint\monster.dll
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\obj\Debug\net6.0\monster.pdb
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\obj\Debug\net6.0\monster.genruntimeconfig.cache
+c:\Users\teodora.avramovic\Documents\prog2\bash a monster\obj\Debug\net6.0\ref\monster.dll

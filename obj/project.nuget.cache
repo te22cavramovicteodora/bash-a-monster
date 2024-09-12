@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dhV2kEwCcfhD1TCsffPUfEjCz3fePeJzY4ucFOcVPLQQxkDIRoR8vHeCBGXAfiRKUJnopUTZWYjDe39eop7EMA==",
+  "dgSpecHash": "nRFqWHly+1tNyXsmMdTUlBGkBq0ei3HuemD3ekeqb2DscbkXHtreGfCLb313sOaThL0DGg16ypV9IhrXLKJb8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\monster.csproj",
+  "projectFilePath": "c:\\Users\\teodora.avramovic\\Documents\\prog2\\bash a monster\\monster.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\teodora.avramovic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\teodora.avramovic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",

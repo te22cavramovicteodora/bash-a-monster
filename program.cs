@@ -1,13 +1,13 @@
-﻿Paladin thePaladin = new Paladin();
-Monster theMonster = new Monster();
+﻿Stephanie theStephanie = new Stephanie();
+NikocadoAvocado theNikocadoAvocado = new NikocadoAvocado();
 
-Console.WriteLine($"{thePaladin.name} has {thePaladin.health} healths");
-Console.WriteLine($"{theMonster.name} has {theMonster.health} health and {theMonster.size} size");
+Console.WriteLine($"{theStephanie.name} has {theStephanie.health} healths");
+Console.WriteLine($"{theNikocadoAvocado.name} has {theNikocadoAvocado.health} health and {theNikocadoAvocado.size} size");
 
 Console.WriteLine("ATTACK!");
-theMonster.health -= 10;
+theNikocadoAvocado.health -= 10;
 
-Console.WriteLine($"{theMonster.name} now has {theMonster.health} health");
+Console.WriteLine($"{theNikocadoAvocado.name} now has {theNikocadoAvocado.health} health");
 
 Console.WriteLine("Press any key to continue...");
 Console.ReadKey();
